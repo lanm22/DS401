@@ -1,1 +1,2 @@
-I learned
+From the summer of 2019 to winter 2020, I worked on a computational genetics project with Dr. Ayoub by analyzing how spider silk gene expression fluctuates based on diet. This experience broadened my data analysis skills and furthered my understanding of genetics, which can be applied to humans as personalized therapeutics are becoming a reality. 
+The complexity of writing Python programs to analyze large batches of data challenged me, but I persevered through all the code errors and bugs. This experience taught me how to rigorously analyze experimental results, which will be useful in my future career.
